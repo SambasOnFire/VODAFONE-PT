@@ -1,0 +1,3 @@
+# VODAFONE-PT
+Huawei EchoLife HG8247H
+
